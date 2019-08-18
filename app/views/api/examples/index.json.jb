@@ -1,4 +1,4 @@
 [
-  { message: 'brian' },
-  { message: 'kevin' }
+  { name: 'brian' },
+  { name: 'kevin' }
 ]
