@@ -7,6 +7,7 @@ Rails.application.routes.draw do
     get '/examples' => 'examples#index'
     get '/pages' => 'pages#index'
   #   get "/photos" => "photos#index"
+    get '/dogs' =>'dogs#index'
   end
 
 end
