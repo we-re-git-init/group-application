@@ -34,13 +34,11 @@ Rails.application.routes.draw do
 
     get '/all' => 'arzo#index'
     get '/paper' => 'paper#index'
+    get '/coffees' => 'coffees#index'
 
   end
 
- get '/all' => 'arzo#index'
-
-
     get '/all' => 'arzo#index'
-    get '/coffees' => 'coffees#index'
-  end 
+    
+   
 end
