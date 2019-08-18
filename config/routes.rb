@@ -11,9 +11,9 @@ Rails.application.routes.draw do
     get '/kevin' => 'kevins#index'
     get '/meeae' => 'meeae#index'
   #   get "/photos" => "photos#index"
+    get '/dogs' =>'dogs#index'
     get '/shanes' => 'shanes#index'
     get '/waterbottles' => 'water_bottles#index'
-  end
-
- get '/all' => 'arzo#index'
+    get '/all' => 'arzo#index'
+  end 
 end
