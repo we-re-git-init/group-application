@@ -8,6 +8,7 @@ Rails.application.routes.draw do
     get '/pages' => 'pages#index'
     get '/meeae' => 'meeae#index'
   #   get "/photos" => "photos#index"
+    get '/shanes' => 'shanes#index'
     get '/waterbottles' => 'water_bottles#index'
   end
 
