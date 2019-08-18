@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {message: 'brian', 'Mike' }
 =======
 {message: 'brian', 'Daniel'}
 >>>>>>> 8b47129083b944bdbba3547cd1e1746487cda0b3
+=======
+
+{message: 'brian'}
+{message: 'brian', 'Daniel'}
+{message: 'lauryn'}
+
+{message: 'brian', 'adam friedman'}
+
+>>>>>>> 97e101b185e033548028c89c2d9ef58ad6afc044
