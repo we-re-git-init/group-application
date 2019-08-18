@@ -15,5 +15,6 @@ Rails.application.routes.draw do
     get '/shanes' => 'shanes#index'
     get '/waterbottles' => 'water_bottles#index'
     get '/all' => 'arzo#index'
+    get '/coffees' => 'coffees#index'
   end 
 end
