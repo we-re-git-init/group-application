@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 [
   { name: 'brian' },
   { name: 'kevin' }
 ]
+=======
+{message: 'brian', 'Daniel', 'adam friedman', 'shane', 'Natalie', 'lauryn', arzo: 'thakur', bart: '😎', 'rishi',}
+
+>>>>>>> d1560232cddd81eb6f95b5746f28de31fd60b10b
+
+{message: 'brian', 'Daniel', 'adam friedman', 'shane', 'Natalie', 'lauryn', arzo: 'thakur', bart: '😎', 'rishi', kevin: 'kevin' }
