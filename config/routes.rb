@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   namespace :api do
     get '/examples' => 'examples#index'
     get '/pages' => 'pages#index'
+    get '/kevin' => 'kevins#index'
     get '/doughnuts' => 'doughnuts#index'
     get '/meeae' => 'meeae#index'
     get '/dogs' =>'dogs#index'
@@ -15,4 +16,5 @@ Rails.application.routes.draw do
     get '/waterbottles' => 'water_bottles#index'
     get '/all' => 'arzo#index'
     get '/coffees' => 'coffees#index'
-  end
+  end 
+end
